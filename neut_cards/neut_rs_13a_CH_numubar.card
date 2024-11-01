@@ -78,8 +78,9 @@ C          1 : In MeV
 C
 
 EVCT-MPV  3
-EVCT-FILENM /home/tschefke/disk03/numubar_ccqe/flux/13a_nom_m250kA_tune_138bins.root  
-EVCT-HISTNM nd5_nom_numub 
+EVCT-FILENM '/home/t2k/tschefke/work/tki_studies/NEUTvectReader/flux/13a_nom_m250kA_tune_138bins.root'
+
+EVCT-HISTNM 'nd5_nom_numub' 
 C EVCT-PV  500 2000.
 
 C--------------------------------------------------
